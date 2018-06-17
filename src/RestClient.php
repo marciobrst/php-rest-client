@@ -4,7 +4,7 @@
  * Copyright 2018 <http://www.muiraquitec.com.br>.
  * Author: Márcio Braga dos Santos <https://github.com/marciobrst>.
  * 
- * Simple-REST - Lightweight PHP REST Library
+ * PHP-Rest-Client - REST Client for php users
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may
  * not use this file except in compliance with the License. You may obtain
